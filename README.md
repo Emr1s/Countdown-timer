@@ -1,3 +1,6 @@
+#Demo project image
+![image](https://github.com/Emr1s/Countdown-timer/assets/33460622/aba93adb-5cbf-4965-be54-e8e9b0edd634)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
